@@ -1,4 +1,4 @@
-### Welcome👋 I'm Indira!
+# Welcome👋 I'm Indira!
 
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy 2023 By Google, GoTo, Traveloka
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
