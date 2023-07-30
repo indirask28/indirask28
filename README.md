@@ -3,6 +3,8 @@
   <h1>Welcome👋 I'm Indira!</h1>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=indirask28)
+
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy 2023 By Google, GoTo, Traveloka
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
 - 🤔 I’m looking for suggestions for Machine Learning Developer and Data Analyst
