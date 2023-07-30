@@ -18,7 +18,7 @@
 [<img align="left" alt="Power BI" width="80px" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" style="padding-right:10px;"/>](https://powerbi.microsoft.com/en-us/)
 <br/><br/>
 ## Connect with Me
-[<img src="./github/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png" alt="LinkedIn" width="50px">](https://www.linkedin.com/in/indirasetiakamila/)
+[<img src="https://github.com/indirask28/indirask28/blob/main/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/indirasetiakamila/)
 &nbsp;&nbsp;
 [<img src="./github/vecteezy_gmail-mail-icon-for-web-design_20964377_845.png" alt="LinkedIn" width="30px">](mailto:indirasetia28@gmail.com)
 &nbsp;&nbsp;
