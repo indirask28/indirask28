@@ -1,4 +1,7 @@
-# Welcome👋 I'm Indira!
+![Header Photo](https://github.com/indirask28/indirask28/blob/main/Aesthetic%20Twitter%20Header.png)
+<div align="center">
+  <h1>Welcome👋 I'm Indira!</h1>
+</div>
 
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy 2023 By Google, GoTo, Traveloka
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
